@@ -1,0 +1,27 @@
+{  
+
+        "B-Tech":{
+
+            "Name":"Malla Reddy University",
+
+            "Score":8.5
+
+        },
+
+        "Inter":{
+
+            "Name":"Narayana",
+
+            "Score":8
+
+        },
+
+        "10th":{
+
+            "Name":"Vikas",
+
+            "Score":8.5
+
+        }
+
+} 
